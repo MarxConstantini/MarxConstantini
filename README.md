@@ -7,7 +7,7 @@
 
 <!-- Badges de status -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-PERFIL">
+  <a href="https://www.linkedin.com/in/marxconstantini">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white"/>
